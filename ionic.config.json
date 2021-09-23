@@ -1,0 +1,7 @@
+{
+  "name": "myExampleApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
